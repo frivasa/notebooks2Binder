@@ -7,5 +7,5 @@ dependencies:
   - matplotlib
   - pandas
   - astropy
-  - pip
-    - git+https://github.com/frivasa/flashy.git
+  - pip:
+    - git+https://github.com/frivasa/flashy
