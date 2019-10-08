@@ -4,8 +4,10 @@ channels:
 dependencies:
   - python
   - numpy
+  - scipy
   - matplotlib
   - pandas
   - astropy
+  - h5py
   - pip:
     - git+https://github.com/frivasa/flashy
