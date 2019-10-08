@@ -8,4 +8,4 @@ dependencies:
   - pandas
   - astropy
   - pip
-    - git+https://github.com/frivasa/flashy
+    - git+https://github.com/frivasa/flashy.git
